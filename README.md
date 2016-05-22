@@ -6,9 +6,10 @@ It is derived from the official Angular 2 Documentation which can be found [here
 ## Usage
 Follow the following steps and you're good to go! Important: Typescript and npm has to be installed on your machine!
 
+
 1: Clone repo
 ```
-git clone https://github.com/mschwarzmueller/angular-2-beta-boilerplate.git
+git clone https://github.com/rootn3rd/a2-boilerplate.git
 ```
 2: Install packages
 ```
@@ -18,3 +19,5 @@ npm install
 ```
 npm start
 ```
+
+Originally taken from  https://github.com/mschwarzmueller/angular-2-beta-boilerplate.git
